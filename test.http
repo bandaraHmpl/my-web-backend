@@ -1,5 +1,4 @@
-### Project 1 - My Web
-POST https://my-web-backend-production.up.railway.app/projects
+PUT https://my-web-backend-production.up.railway.app/projects/22
 Content-Type: application/json
 
 {
@@ -11,8 +10,8 @@ Content-Type: application/json
   "imageUrl": "https://via.placeholder.com/600x400"
 }
 
-### Project 2 - Student Management System
-POST https://my-web-backend-production.up.railway.app/projects
+###
+PUT https://my-web-backend-production.up.railway.app/projects/23
 Content-Type: application/json
 
 {
