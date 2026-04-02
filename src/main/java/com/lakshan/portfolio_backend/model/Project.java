@@ -20,6 +20,7 @@ public class Project {
     private String githubLink;
     private String liveLink;
     private String technologies;
+    private String imageUrl;
 
     public Project() {}
 
@@ -64,5 +65,13 @@ public class Project {
 
     public void setTechnologies(String technologies) {
         this.technologies = technologies;
+    }
+
+    public String getImageUrl() {
+        return imageUrl;
+    }
+
+    public void setImageUrl(String imageUrl) {
+        this.imageUrl = imageUrl;
     }
 }
