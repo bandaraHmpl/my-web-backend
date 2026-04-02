@@ -1,0 +1,25 @@
+### Project 1 - My Web
+POST https://my-web-backend-production.up.railway.app/projects
+Content-Type: application/json
+
+{
+  "title": "My Web",
+  "description": "Personal portfolio website with dynamic project loading using Spring Boot, MySQL, HTML, CSS, and JavaScript.",
+  "githubLink": "https://github.com/bandaraHmpl/My_Web",
+  "liveLink": "https://bandarahmpl.github.io/My_Web/",
+  "technologies": "HTML,CSS,JavaScript,Spring Boot,MySQL",
+  "imageUrl": "https://via.placeholder.com/600x400"
+}
+
+### Project 2 - Student Management System
+POST https://my-web-backend-production.up.railway.app/projects
+Content-Type: application/json
+
+{
+  "title": "Student Management System",
+  "description": "Web-based student management system with full CRUD operations using Spring Boot, MySQL, HTML, CSS, and JavaScript.",
+  "githubLink": "https://github.com/bandaraHmpl/student-management-system",
+  "liveLink": "",
+  "technologies": "HTML,CSS,JavaScript,Spring Boot,MySQL",
+  "imageUrl": "https://via.placeholder.com/600x400"
+}
