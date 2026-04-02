@@ -8,10 +8,13 @@ Content-Type: application/json
   "githubLink": "https://github.com/bandaraHmpl/My_Web",
   "liveLink": "https://bandarahmpl.github.io/My_Web/",
   "technologies": "HTML,CSS,JavaScript,Spring Boot,MySQL",
-  "imageUrl": "https://via.placeholder.com/600x400"
+  "images": [
+    "https://images.unsplash.com/photo-1461749280684-dccba630e2f6",
+    "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+    "https://images.unsplash.com/photo-1515879218367-8466d910aaa4"
+  ]
 }
 
-###
 ### Project 2 - Student Management System
 POST https://my-web-backend-production.up.railway.app/projects
 Content-Type: application/json
@@ -22,5 +25,11 @@ Content-Type: application/json
   "githubLink": "https://github.com/bandaraHmpl/student-management-system",
   "liveLink": "",
   "technologies": "HTML,CSS,JavaScript,Spring Boot,MySQL",
-  "imageUrl": "https://via.placeholder.com/600x400"
+  "images": [
+    "https://images.unsplash.com/photo-1581092334651-ddf26d9a09d0",
+    "https://images.unsplash.com/photo-1522202176988-66273c2fd55f",
+    "https://images.unsplash.com/photo-1516321318423-f06f85e504b3",
+    "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+    "https://images.unsplash.com/photo-1517694712202-14dd9538aa97"
+  ]
 }
