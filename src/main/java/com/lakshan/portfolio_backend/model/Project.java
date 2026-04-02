@@ -20,7 +20,8 @@ public class Project {
     private String githubLink;
     private String liveLink;
     private String technologies;
-    private String imageUrl;
+    @ElementCollection
+    private java.util.List<String> images;
 
     public Project() {}
 
@@ -67,11 +68,11 @@ public class Project {
         this.technologies = technologies;
     }
 
-    public String getImageUrl() {
-        return imageUrl;
+    public java.util.List<String> getImages() {
+        return images;
     }
 
-    public void setImageUrl(String imageUrl) {
-        this.imageUrl = imageUrl;
+    public void setImages(java.util.List<String> images) {
+        this.images = images;
     }
 }
