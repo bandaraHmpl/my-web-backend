@@ -9,9 +9,20 @@ Content-Type: application/json
   "liveLink": "https://bandarahmpl.github.io/My_Web/",
   "technologies": "HTML,CSS,JavaScript,Spring Boot,MySQL",
   "images": [
-    "https://images.unsplash.com/photo-1461749280684-dccba630e2f6",
-    "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
-    "https://images.unsplash.com/photo-1515879218367-8466d910aaa4"
+    "https://bandarahmpl.github.io/My_Web/images/my_web_1.png",
+    "https://bandarahmpl.github.io/My_Web/images/my_web_2.png",
+    "https://bandarahmpl.github.io/My_Web/images/my_web_3.png",
+    "https://bandarahmpl.github.io/My_Web/images/my_web_4.png",
+    "https://bandarahmpl.github.io/My_Web/images/my_web_5.png",
+    "https://bandarahmpl.github.io/My_Web/images/my_web_6.png",
+    "https://bandarahmpl.github.io/My_Web/images/my_web_7.png",
+    "https://bandarahmpl.github.io/My_Web/images/my_web_8.png",
+    "https://bandarahmpl.github.io/My_Web/images/my_web_9.png",
+    "https://bandarahmpl.github.io/My_Web/images/my_web_10.png",
+    "https://bandarahmpl.github.io/My_Web/images/my_web_11.png",
+    "https://bandarahmpl.github.io/My_Web/images/my_web_12.png",
+    "https://bandarahmpl.github.io/My_Web/images/my_web_13.png",
+    "https://bandarahmpl.github.io/My_Web/images/my_web_14.png"
   ]
 }
 
