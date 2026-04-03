@@ -37,10 +37,15 @@ Content-Type: application/json
   "liveLink": "",
   "technologies": "HTML,CSS,JavaScript,Spring Boot,MySQL",
   "images": [
-    "https://images.unsplash.com/photo-1581092334651-ddf26d9a09d0",
-    "https://images.unsplash.com/photo-1522202176988-66273c2fd55f",
-    "https://images.unsplash.com/photo-1516321318423-f06f85e504b3",
-    "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
-    "https://images.unsplash.com/photo-1517694712202-14dd9538aa97"
+    "https://bandarahmpl.github.io/My_Web/images/student-ms-1.png",
+    "https://bandarahmpl.github.io/My_Web/images/student-ms-2.png",
+    "https://bandarahmpl.github.io/My_Web/images/student-ms-3.png",
+    "https://bandarahmpl.github.io/My_Web/images/student-ms-4.png",
+    "https://bandarahmpl.github.io/My_Web/images/student-ms-5.png",
+    "https://bandarahmpl.github.io/My_Web/images/student-ms-6.png",
+    "https://bandarahmpl.github.io/My_Web/images/student-ms-7.png",
+    "https://bandarahmpl.github.io/My_Web/images/student-ms-8.png",
+    "https://bandarahmpl.github.io/My_Web/images/student-ms-9.png",
+    "https://bandarahmpl.github.io/My_Web/images/student-ms-10.png"
   ]
 }
